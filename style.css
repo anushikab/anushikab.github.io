@@ -1,3 +1,50 @@
 body {
+    background-color:;
+}
+
+h1 {
+    /*font-size: 500px;*/
+}
+h2 {
+    font-size: 100%;
+}
+h3 {
+    font-size: 100%;
+}
+h3:hover {
     background-color: yellow;
+}
+h3 
+{
+   font-size: 100%;
+   font-family: 'Courier New'
+}
+h4
+{
+   font-size: 100%;
+}
+h1 {
+    background-color: green;
+}
+
+div {
+    background-color: lightblue;
+}
+
+p {
+    background-color: yellow;
+}
+body {
+    background-image: url("paper.gif");
+}
+
+
+    
+
+
+.insidetext {
+    color: orange;
+}
+img {
+    align-content: center;
 }
